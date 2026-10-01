@@ -83,6 +83,10 @@ Use the catalogs when resolving downloads: display names can contain punctuation
 
 </details>
 
+## Support
+
+Support the maintainer's work on LeagueSkins and Sunshine by [sponsoring Yimikami on GitHub](https://github.com/sponsors/Yimikami).
+
 ## Credits
 
 - [Sunshine](https://github.com/bettie9/Sunshine) — package builds and app integration.
