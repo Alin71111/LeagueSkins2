@@ -2,7 +2,7 @@
 
 [← Back to LeagueSkins](../README.md)
 
-**72 champions · 1,716 skins, chromas and variants · Patch 16.19**
+**77 champions · 1,734 skins, chromas and variants · Patch 16.20**
 
 These packages apply skins to the `Jade_*` champions in **League Classic**. They are built from the installed game's Classic assets.
 
@@ -37,11 +37,11 @@ Packages target slot `0` and the available `300`–`399` Classic slots recorded 
 
 ## Validation and limitations
 
-For the 16.19 catalog:
+For the 16.20 catalog:
 
-- All 1,716 packages passed BIN/WAD structural, dependency and byte-preservation checks.
-- One package per champion passed a combined **72-WAD build with LTK Overlay 0.9.5**, with no missing linked BINs or checksum mismatches.
-- **Dynasty Ahri** and **Annie-Versary** trial packages were confirmed working in game. This is not an in-game verification of every published skin or chroma.
+- All 1,734 packages passed BIN/WAD structural, dependency and byte-preservation checks.
+- One package per champion passed a combined **77-WAD build with LTK Overlay 0.9.5**, with no missing linked BINs or checksum mismatches.
+- **Dynasty Ahri** and **Annie-Versary** trials were confirmed in game on an earlier patch. The current 16.20 packages still need in-game testing.
 
 Some pets or alternate forms have no matching per-skin asset. Those packages use the available parent-skin or base-form asset. Twisted Fate slot 35 has no public catalog name and is listed as **Twisted Fate (Variant 35)**.
 

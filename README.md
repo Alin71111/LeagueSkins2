@@ -20,12 +20,12 @@ Download individual `.fantome` packages here, or browse and install them directl
 | Collection | Packages | Coverage | Catalog |
 | --- | ---: | --- | --- |
 | [Champion skins](skins/) | 9,744 | Skins, chromas and forms for 173 normal LoL champions | [index.json](index.json) |
-| [League Classic](classic/) | 1,716 | Skins, chromas and variants for 72 Classic champions | [classic/index.json](classic/index.json) |
-| [Emotes](emotes/) | 2,057 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
+| [League Classic](classic/) | 1,734 | Skins, chromas and variants for 77 Classic champions | [classic/index.json](classic/index.json) |
+| [Emotes](emotes/) | 2,089 | Replacements for the default thumbs-up emote | [emotes-index.json](emotes-index.json) |
 | [Nexus finishers](finishers/) | 6 | Default Nexus destruction effects and sounds | [finishers-index.json](finishers-index.json) |
 | [Wards / Totems](wards/) | 265 | Replacements for default ward and trinket appearances | [wards-index.json](wards-index.json) |
 
-*Normal skin catalog: 16.20, updated October 7, 2026. Other collections: September 26, 2026 snapshot; Classic catalog: 16.19. Counts include individual variants; older duplicate download names are excluded.*
+*Library snapshot: October 7, 2026. All five collections updated for patch 16.20. Counts include individual variants; older duplicate download names are excluded.*
 
 **Choose the collection for your game mode.** Packages in `skins/` target normal LoL champions. Packages in `classic/` target the `Jade_*` champions used by League Classic; they do not turn normal LoL champions into their Classic versions.
 
