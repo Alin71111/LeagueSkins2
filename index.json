@@ -1,5 +1,5 @@
 {
-  "patch": "16.19.1",
+  "patch": "16.20",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -726,7 +726,8 @@
         "18": "EDG Aphelios",
         "20": "Spirit Blossom Aphelios",
         "30": "HEARTSTEEL Aphelios",
-        "40": "Prestige Spirit Blossom Springs Aphelios"
+        "40": "Prestige Spirit Blossom Springs Aphelios",
+        "41": "HEARTSTEEL Live My Life Aphelios"
       },
       "chromas": {
         "1": {
@@ -771,6 +772,16 @@
           "37": "Pearl",
           "38": "Citrine",
           "39": "Rockstar"
+        },
+        "41": {
+          "42": "Ruby",
+          "43": "Tanzanite",
+          "44": "Pearl",
+          "45": "Catseye",
+          "46": "Peridot",
+          "47": "Obsidian",
+          "48": "Rose Quartz",
+          "49": "Aquamarine"
         }
       },
       "forms": {}
@@ -2423,7 +2434,8 @@
         "43": "HEARTSTEEL Ezreal",
         "44": "Heavenscale Ezreal",
         "54": "Prestige Heavenscale Ezreal",
-        "65": "Masque of the Black Rose Ezreal"
+        "65": "Masque of the Black Rose Ezreal",
+        "78": "HEARTSTEEL Live My Life Ezreal"
       },
       "chromas": {
         "7": {
@@ -2498,6 +2510,16 @@
         },
         "19": {
           "75": "Elite"
+        },
+        "78": {
+          "79": "Ruby",
+          "80": "Sapphire",
+          "81": "Catseye",
+          "82": "Tanzanite",
+          "83": "Rose Quartz",
+          "84": "Obsidian",
+          "85": "Pearl",
+          "86": "Peridot"
         }
       },
       "forms": {
@@ -3856,6 +3878,9 @@
         },
         "42": {
           "43": "Vivid"
+        },
+        "8": {
+          "44": "Elite"
         }
       },
       "forms": {
@@ -4123,7 +4148,8 @@
       "skins": {
         "1": "Empyrean K'Sante",
         "2": "Prestige Empyrean K'Sante",
-        "8": "HEARTSTEEL K'Sante"
+        "8": "HEARTSTEEL K'Sante",
+        "18": "HEARTSTEEL Live My Life K'Sante"
       },
       "chromas": {
         "1": {
@@ -4143,6 +4169,16 @@
           "15": "Tanzanite",
           "16": "Citrine",
           "17": "Rockstar"
+        },
+        "18": {
+          "19": "Ruby",
+          "20": "Sapphire",
+          "21": "Turquoise",
+          "22": "Tanzanite",
+          "23": "Rose Quartz",
+          "24": "Obsidian",
+          "25": "Pearl",
+          "26": "Catseye"
         }
       },
       "forms": {}
@@ -5073,7 +5109,8 @@
         "9": "Prestige Nightbringer Kayn",
         "15": "Snow Moon Kayn",
         "20": "HEARTSTEEL Kayn",
-        "26": "Battle Academia Kayn"
+        "26": "Battle Academia Kayn",
+        "32": "HEARTSTEEL Live My Life Kayn"
       },
       "chromas": {
         "2": {
@@ -5108,6 +5145,12 @@
           "28": "Catseye",
           "29": "Sapphire",
           "30": "Emerald"
+        },
+        "32": {
+          "33": "Ruby",
+          "34": "Rose Quartz",
+          "35": "Catseye",
+          "36": "Tanzanite"
         }
       },
       "forms": {
@@ -5184,6 +5227,18 @@
         "1": {
           "998": "Rhaast",
           "999": "Shadow Assassin"
+        },
+        "32": {
+          "939": "Shadow Assassin",
+          "938": "Rhaast",
+          "937": "Ruby - Shadow Assassin",
+          "936": "Ruby - Rhaast",
+          "935": "Rose Quartz - Shadow Assassin",
+          "934": "Rose Quartz - Rhaast",
+          "933": "Catseye - Shadow Assassin",
+          "932": "Catseye - Rhaast",
+          "931": "Tanzanite - Shadow Assassin",
+          "930": "Tanzanite - Rhaast"
         }
       }
     },
@@ -5424,7 +5479,8 @@
         "28": "Bee'Maw",
         "37": "Zap'Maw",
         "46": "Shan Hai Scrolls Kog'Maw",
-        "55": "Victorious Kog'Maw"
+        "55": "Victorious Kog'Maw",
+        "65": "Prestige Classic Baron Kog'Maw"
       },
       "chromas": {
         "9": {
@@ -5487,6 +5543,9 @@
           "62": "Master",
           "63": "Grandmaster",
           "64": "Challenger"
+        },
+        "65": {
+          "66": "Vivid"
         }
       },
       "forms": {}
@@ -5679,6 +5738,9 @@
           "78": "Pearl",
           "79": "Tanzanite",
           "80": "Turquoise"
+        },
+        "6": {
+          "82": "Elite"
         }
       },
       "forms": {}
@@ -9269,7 +9331,8 @@
         "45": "Soul Fighter Sett",
         "56": "HEARTSTEEL Sett",
         "66": "Radiant Serpent Sett",
-        "67": "Spirit Blossom Springs Sett"
+        "67": "Spirit Blossom Springs Sett",
+        "76": "Prestige HEARTSTEEL Live My Life Sett"
       },
       "chromas": {
         "1": {
@@ -9352,6 +9415,9 @@
           "73": "Obsidian",
           "74": "Pearl",
           "75": "Rose Quartz"
+        },
+        "76": {
+          "77": "Vivid"
         }
       },
       "forms": {
@@ -11401,6 +11467,9 @@
           "71": "Sapphire",
           "72": "Rose Quartz",
           "73": "Pearl"
+        },
+        "5": {
+          "74": "Elite"
         }
       },
       "forms": {}
@@ -12343,7 +12412,8 @@
         "55": "High Noon Yone",
         "58": "Peacemaker High Noon Yone",
         "65": "Masked Justice Yone",
-        "74": "T1 Yone"
+        "74": "T1 Yone",
+        "77": "HEARTSTEEL Live My Life Yone"
       },
       "chromas": {
         "1": {
@@ -12427,6 +12497,16 @@
         },
         "74": {
           "75": "Elite"
+        },
+        "77": {
+          "78": "Ruby",
+          "79": "Rose Quartz",
+          "80": "Catseye",
+          "81": "Pearl",
+          "82": "Tanzanite",
+          "83": "Sapphire",
+          "84": "Emerald",
+          "85": "Obsidian"
         }
       },
       "forms": {
@@ -12827,7 +12907,8 @@
           "66": "Obsidian"
         },
         "2": {
-          "67": "Paragon"
+          "67": "Paragon",
+          "71": "Elite"
         },
         "69": {
           "70": "Vivid"
@@ -13174,6 +13255,9 @@
           "71": "Sapphire",
           "72": "Rose Quartz",
           "73": "Obsidian"
+        },
+        "3": {
+          "74": "Elite"
         }
       },
       "forms": {}
