@@ -1,4 +1,5 @@
 {
+  "patch": "16.20",
   "target": "thumb_happy_up",
   "emotes": {
     "10001": {
@@ -529,6 +530,36 @@
     "10109": {
       "name": "Unidentified Friendly Object",
       "file": "Unidentified Friendly Object.fantome",
+      "missing": []
+    },
+    "10128": {
+      "name": "Up and to the right",
+      "file": "Up and to the right.fantome",
+      "missing": []
+    },
+    "10129": {
+      "name": "Make Room for Mush",
+      "file": "Make Room for Mush.fantome",
+      "missing": []
+    },
+    "10130": {
+      "name": "Blue Hearts You",
+      "file": "Blue Hearts You.fantome",
+      "missing": []
+    },
+    "10131": {
+      "name": "Scheming Sorceress",
+      "file": "Scheming Sorceress.fantome",
+      "missing": []
+    },
+    "10132": {
+      "name": "What'd I do now?!",
+      "file": "What'd I do now_!.fantome",
+      "missing": []
+    },
+    "10133": {
+      "name": "Sweat It Out",
+      "file": "Sweat It Out.fantome",
       "missing": []
     },
     "3931": {
@@ -5166,6 +5197,576 @@
       "file": "Thrill Of The Kill.fantome",
       "missing": []
     },
+    "5081": {
+      "name": "All Seeing Aspect",
+      "file": "All Seeing Aspect.fantome",
+      "missing": []
+    },
+    "5082": {
+      "name": "We Shine Together",
+      "file": "We Shine Together.fantome",
+      "missing": []
+    },
+    "5083": {
+      "name": "Keep Swimming",
+      "file": "Keep Swimming.fantome",
+      "missing": []
+    },
+    "5084": {
+      "name": "Moonstruck",
+      "file": "Moonstruck.fantome",
+      "missing": []
+    },
+    "5085": {
+      "name": "Divine Power",
+      "file": "Divine Power.fantome",
+      "missing": []
+    },
+    "5086": {
+      "name": "Mamma Mia",
+      "file": "Mamma Mia.fantome",
+      "missing": []
+    },
+    "5087": {
+      "name": "Tranquility",
+      "file": "Tranquility.fantome",
+      "missing": []
+    },
+    "5088": {
+      "name": "Supersleuth",
+      "file": "Supersleuth.fantome",
+      "missing": []
+    },
+    "5089": {
+      "name": "Queen Of The Dead",
+      "file": "Queen Of The Dead.fantome",
+      "missing": []
+    },
+    "5090": {
+      "name": "Loading...",
+      "file": "Loading.fantome",
+      "missing": []
+    },
+    "5091": {
+      "name": "Shark Snack",
+      "file": "Shark Snack.fantome",
+      "missing": []
+    },
+    "5092": {
+      "name": "Flushed Fuss",
+      "file": "Flushed Fuss.fantome",
+      "missing": []
+    },
+    "5093": {
+      "name": "It's Okay, I'm Okay",
+      "file": "It's Okay, I'm Okay.fantome",
+      "missing": []
+    },
+    "5094": {
+      "name": "Impeccable",
+      "file": "Impeccable.fantome",
+      "missing": []
+    },
+    "5095": {
+      "name": "Sinful Sip",
+      "file": "Sinful Sip.fantome",
+      "missing": []
+    },
+    "5096": {
+      "name": "Too Hot To Handle",
+      "file": "Too Hot To Handle.fantome",
+      "missing": []
+    },
+    "5097": {
+      "name": "Balloon's 'Bout To Burst!",
+      "file": "Balloon's 'Bout To Burst!.fantome",
+      "missing": []
+    },
+    "5098": {
+      "name": "Bad Crabitude",
+      "file": "Bad Crabitude.fantome",
+      "missing": []
+    },
+    "5099": {
+      "name": "Cheers, Dears",
+      "file": "Cheers, Dears.fantome",
+      "missing": []
+    },
+    "5100": {
+      "name": "Pinfall",
+      "file": "Pinfall.fantome",
+      "missing": []
+    },
+    "5101": {
+      "name": "Clean Up",
+      "file": "Clean Up.fantome",
+      "missing": []
+    },
+    "5102": {
+      "name": "Tip My Hat",
+      "file": "Tip My Hat.fantome",
+      "missing": []
+    },
+    "5103": {
+      "name": "I'm A Locke Star",
+      "file": "I'm A Locke Star.fantome",
+      "missing": []
+    },
+    "5104": {
+      "name": "Watch It All Burn",
+      "file": "Watch It All Burn.fantome",
+      "missing": []
+    },
+    "5105": {
+      "name": "What A Headache",
+      "file": "What A Headache.fantome",
+      "missing": []
+    },
+    "5106": {
+      "name": "Gotta Be Kiddin' Me",
+      "file": "Gotta Be Kiddin' Me.fantome",
+      "missing": []
+    },
+    "5107": {
+      "name": "Flex On 'Em",
+      "file": "Flex On 'Em.fantome",
+      "missing": []
+    },
+    "5108": {
+      "name": "I'm Surrounded By Idiots",
+      "file": "I'm Surrounded By Idiots.fantome",
+      "missing": []
+    },
+    "5109": {
+      "name": "Bready Or Not!",
+      "file": "Bready Or Not!.fantome",
+      "missing": []
+    },
+    "5110": {
+      "name": "I Call The Shots",
+      "file": "I Call The Shots.fantome",
+      "missing": []
+    },
+    "5111": {
+      "name": "Guma-Goddess",
+      "file": "Guma-Goddess.fantome",
+      "missing": []
+    },
+    "5112": {
+      "name": "A Rose, For You",
+      "file": "A Rose, For You.fantome",
+      "missing": []
+    },
+    "5113": {
+      "name": "K!",
+      "file": "K!.fantome",
+      "missing": []
+    },
+    "5114": {
+      "name": "Darling Doongi",
+      "file": "Darling Doongi.fantome",
+      "missing": []
+    },
+    "5115": {
+      "name": "Tiger Clan Represent",
+      "file": "Tiger Clan Represent.fantome",
+      "missing": []
+    },
+    "5116": {
+      "name": "Morning Glory",
+      "file": "Morning Glory.fantome",
+      "missing": []
+    },
+    "5117": {
+      "name": "Call Your Shot",
+      "file": "Call Your Shot.fantome",
+      "missing": []
+    },
+    "5118": {
+      "name": "Outta Here",
+      "file": "Outta Here.fantome",
+      "missing": []
+    },
+    "5119": {
+      "name": "2026 MSI Champions Hanwha Life Esports",
+      "file": "2026 MSI Champions Hanwha Life Esports.fantome",
+      "missing": []
+    },
+    "5120": {
+      "name": "Comfy Cloud",
+      "file": "Comfy Cloud.fantome",
+      "missing": []
+    },
+    "5121": {
+      "name": "Right On Target",
+      "file": "Right On Target.fantome",
+      "missing": []
+    },
+    "5122": {
+      "name": "Innocuous Brush",
+      "file": "Innocuous Brush.fantome",
+      "missing": []
+    },
+    "5123": {
+      "name": "Burn It Up",
+      "file": "Burn It Up.fantome",
+      "missing": []
+    },
+    "5124": {
+      "name": "Ghostly Poro",
+      "file": "Ghostly Poro.fantome",
+      "missing": []
+    },
+    "5125": {
+      "name": "Tons Of Damage",
+      "file": "Tons Of Damage.fantome",
+      "missing": []
+    },
+    "5126": {
+      "name": "Mighty Metagolem",
+      "file": "Mighty Metagolem.fantome",
+      "missing": []
+    },
+    "5127": {
+      "name": "Caution: Singed",
+      "file": "Caution_ Singed.fantome",
+      "missing": []
+    },
+    "5128": {
+      "name": "1% Crit Chance",
+      "file": "1% Crit Chance.fantome",
+      "missing": []
+    },
+    "5129": {
+      "name": "Shushei The Gragas Legend",
+      "file": "Shushei The Gragas Legend.fantome",
+      "missing": []
+    },
+    "5130": {
+      "name": "Reading Up",
+      "file": "Reading Up.fantome",
+      "missing": []
+    },
+    "5131": {
+      "name": "Seeing Stars",
+      "file": "Seeing Stars.fantome",
+      "missing": []
+    },
+    "5132": {
+      "name": "Too Tanky",
+      "file": "Too Tanky.fantome",
+      "missing": []
+    },
+    "5133": {
+      "name": "Support Is So Easy",
+      "file": "Support Is So Easy.fantome",
+      "missing": []
+    },
+    "5134": {
+      "name": "Positive Team Player",
+      "file": "Positive Team Player.fantome",
+      "missing": []
+    },
+    "5135": {
+      "name": "Honorable Opponent",
+      "file": "Honorable Opponent.fantome",
+      "missing": []
+    },
+    "5136": {
+      "name": "Can't Chronokeep Me Down",
+      "file": "Can't Chronokeep Me Down.fantome",
+      "missing": []
+    },
+    "5137": {
+      "name": "Vicious Rumors",
+      "file": "Vicious Rumors.fantome",
+      "missing": []
+    },
+    "5138": {
+      "name": "Frustrated Fae",
+      "file": "Frustrated Fae.fantome",
+      "missing": []
+    },
+    "5139": {
+      "name": "Unseelie Smirk",
+      "file": "Unseelie Smirk.fantome",
+      "missing": []
+    },
+    "5140": {
+      "name": "Recognize Royalty",
+      "file": "Recognize Royalty.fantome",
+      "missing": []
+    },
+    "5141": {
+      "name": "Into The Mic",
+      "file": "Into The Mic.fantome",
+      "missing": []
+    },
+    "5142": {
+      "name": "LEC Victory",
+      "file": "LEC Victory.fantome",
+      "missing": []
+    },
+    "5143": {
+      "name": "I'm Smurfing!",
+      "file": "I'm Smurfing!.fantome",
+      "missing": []
+    },
+    "5144": {
+      "name": "Claps Or Craps",
+      "file": "Claps Or Craps.fantome",
+      "missing": []
+    },
+    "5145": {
+      "name": "Got A Penta",
+      "file": "Got A Penta.fantome",
+      "missing": []
+    },
+    "5146": {
+      "name": "D.A.D.'s Proud",
+      "file": "D.A.D.'s Proud.fantome",
+      "missing": []
+    },
+    "5147": {
+      "name": "Nagoya 2026 I",
+      "file": "Nagoya 2026 I.fantome",
+      "missing": []
+    },
+    "5148": {
+      "name": "Nagoya 2026 II",
+      "file": "Nagoya 2026 II.fantome",
+      "missing": []
+    },
+    "5149": {
+      "name": "Nagoya 2026 III",
+      "file": "Nagoya 2026 III.fantome",
+      "missing": []
+    },
+    "5150": {
+      "name": "Nagoya 2026 IV",
+      "file": "Nagoya 2026 IV.fantome",
+      "missing": []
+    },
+    "5151": {
+      "name": "Nagoya 2026 V",
+      "file": "Nagoya 2026 V.fantome",
+      "missing": []
+    },
+    "5152": {
+      "name": "Nagoya 2026 VI",
+      "file": "Nagoya 2026 VI.fantome",
+      "missing": []
+    },
+    "5153": {
+      "name": "Clap For Me",
+      "file": "Clap For Me.fantome",
+      "missing": []
+    },
+    "5154": {
+      "name": "What Is E-L-O?!",
+      "file": "What Is E-L-O_!.fantome",
+      "missing": []
+    },
+    "5155": {
+      "name": "Welcome To The RodeLOL",
+      "file": "Welcome To The RodeLOL.fantome",
+      "missing": []
+    },
+    "5156": {
+      "name": "Warm Hugs",
+      "file": "Warm Hugs.fantome",
+      "missing": []
+    },
+    "5157": {
+      "name": "Laying It Down",
+      "file": "Laying It Down.fantome",
+      "missing": []
+    },
+    "5158": {
+      "name": "Braaainsss...",
+      "file": "Braaainsss.fantome",
+      "missing": []
+    },
+    "5159": {
+      "name": "Spa Day",
+      "file": "Spa Day.fantome",
+      "missing": []
+    },
+    "5160": {
+      "name": "BLEP",
+      "file": "BLEP 5160.fantome",
+      "missing": []
+    },
+    "5161": {
+      "name": "Spicy Dog",
+      "file": "Spicy Dog.fantome",
+      "missing": []
+    },
+    "5162": {
+      "name": "Mix It Up",
+      "file": "Mix It Up.fantome",
+      "missing": []
+    },
+    "5163": {
+      "name": "Big Apple, Bigger Wins",
+      "file": "Big Apple, Bigger Wins.fantome",
+      "missing": []
+    },
+    "5164": {
+      "name": "I Can't Hear You",
+      "file": "I Can't Hear You.fantome",
+      "missing": []
+    },
+    "5165": {
+      "name": "Goldfish Face",
+      "file": "Goldfish Face.fantome",
+      "missing": []
+    },
+    "5167": {
+      "name": "Wind-kissed",
+      "file": "Wind-kissed.fantome",
+      "missing": []
+    },
+    "5168": {
+      "name": "Teleggport",
+      "file": "Teleggport.fantome",
+      "missing": []
+    },
+    "5169": {
+      "name": "LCK 2026",
+      "file": "LCK 2026.fantome",
+      "missing": []
+    },
+    "5170": {
+      "name": "LEC 2026",
+      "file": "LEC 2026.fantome",
+      "missing": []
+    },
+    "5171": {
+      "name": "LCS 2026",
+      "file": "LCS 2026.fantome",
+      "missing": []
+    },
+    "5172": {
+      "name": "LCP 2026",
+      "file": "LCP 2026.fantome",
+      "missing": []
+    },
+    "5173": {
+      "name": "CBLOL 2026",
+      "file": "CBLOL 2026.fantome",
+      "missing": []
+    },
+    "5174": {
+      "name": "LPL 2026",
+      "file": "LPL 2026.fantome",
+      "missing": []
+    },
+    "5175": {
+      "name": "Behind You...",
+      "file": "Behind You.fantome",
+      "missing": []
+    },
+    "5176": {
+      "name": "Backdooring",
+      "file": "Backdooring.fantome",
+      "missing": []
+    },
+    "5177": {
+      "name": "LCS Pigeon",
+      "file": "LCS Pigeon.fantome",
+      "missing": []
+    },
+    "5178": {
+      "name": "Deadly Headache",
+      "file": "Deadly Headache.fantome",
+      "missing": []
+    },
+    "5179": {
+      "name": "Come At Me!",
+      "file": "Come At Me!.fantome",
+      "missing": []
+    },
+    "5180": {
+      "name": "Darkin Dunk",
+      "file": "Darkin Dunk.fantome",
+      "missing": []
+    },
+    "5181": {
+      "name": "Popped Collar",
+      "file": "Popped Collar.fantome",
+      "missing": []
+    },
+    "5182": {
+      "name": "Irresistible Charm",
+      "file": "Irresistible Charm.fantome",
+      "missing": []
+    },
+    "5183": {
+      "name": "This One's For You",
+      "file": "This One's For You.fantome",
+      "missing": []
+    },
+    "5184": {
+      "name": "Devious Smirk",
+      "file": "Devious Smirk.fantome",
+      "missing": []
+    },
+    "5185": {
+      "name": "Chill Beats",
+      "file": "Chill Beats.fantome",
+      "missing": []
+    },
+    "5186": {
+      "name": "Really?",
+      "file": "Really.fantome",
+      "missing": []
+    },
+    "5187": {
+      "name": "Skaaaarl",
+      "file": "Skaaaarl.fantome",
+      "missing": []
+    },
+    "5188": {
+      "name": "Neeko Is Best Choncc!",
+      "file": "Neeko Is Best Choncc!.fantome",
+      "missing": []
+    },
+    "5189": {
+      "name": "Sisterly Support",
+      "file": "Sisterly Support.fantome",
+      "missing": []
+    },
+    "5190": {
+      "name": "Pizza Deliv-Er-Y",
+      "file": "Pizza Deliv-Er-Y.fantome",
+      "missing": []
+    },
+    "5191": {
+      "name": "Lil' Baron",
+      "file": "Lil' Baron.fantome",
+      "missing": []
+    },
+    "5192": {
+      "name": "Runs Like A Potato",
+      "file": "Runs Like A Potato.fantome",
+      "missing": []
+    },
+    "5193": {
+      "name": "Classic Baron",
+      "file": "Classic Baron.fantome",
+      "missing": []
+    },
+    "5194": {
+      "name": "Smokescreen",
+      "file": "Smokescreen.fantome",
+      "missing": []
+    },
+    "5195": {
+      "name": "Please Press R Malphite",
+      "file": "Please Press R Malphite.fantome",
+      "missing": []
+    },
     "ahri_love_wink_02": {
       "name": "Charmed",
       "file": "Charmed.fantome",
@@ -5284,6 +5885,116 @@
     "em_10115_chibi_ashe_cosmicqueen_esportswatchdrops_silentjudgement": {
       "name": "Silent Judgement",
       "file": "Silent Judgement.fantome",
+      "missing": []
+    },
+    "em_10116_chibi_annie_cafecuties_cakefight": {
+      "name": "Pastry Pressure",
+      "file": "Pastry Pressure.fantome",
+      "missing": []
+    },
+    "em_10117_chibi_briar_bloodmoon_frenzied": {
+      "name": "I'm Gonna Eat Ya!",
+      "file": "I'm Gonna Eat Ya!.fantome",
+      "missing": []
+    },
+    "em_10118_ll_sprite_spacegroove_headphonesdancing": {
+      "name": "Pump up the Volume!",
+      "file": "Pump up the Volume!.fantome",
+      "missing": []
+    },
+    "em_10119_ll_shork_pride2026": {
+      "name": "Happy Gills",
+      "file": "Happy Gills.fantome",
+      "missing": []
+    },
+    "em_10120_chibi_vex_cafecuties_cakeforyou": {
+      "name": "Another Year? Seriously?",
+      "file": "Another Year_ Seriously.fantome",
+      "missing": []
+    },
+    "em_10121_chibi_vex_cafecuties_woocelebrationwoo": {
+      "name": "Surprise… or Whatever.",
+      "file": "Surprise… or Whatever.fantome",
+      "missing": []
+    },
+    "em_10122_ll_crab_7yranniversary_dancingcelebration": {
+      "name": "Crabby Birthday!",
+      "file": "Crabby Birthday!.fantome",
+      "missing": []
+    },
+    "em_10123_ll_pengu_cosmic_presentsurprise": {
+      "name": "Cosmic Gift",
+      "file": "Cosmic Gift.fantome",
+      "missing": []
+    },
+    "em_10124_unbound_aurelionsol_howyoudoing": {
+      "name": "How You Doing?",
+      "file": "How You Doing.fantome",
+      "missing": []
+    },
+    "em_10125_ll_meep_space_surprise": {
+      "name": "Meep Meep!",
+      "file": "Meep Meep!.fantome",
+      "missing": []
+    },
+    "em_10126_unbound_yasuo_praisethegods": {
+      "name": "Praise the Gods",
+      "file": "Praise the Gods.fantome",
+      "missing": []
+    },
+    "em_10127_unbound_rengar_psyops_lookatthiscat": {
+      "name": "Take a Look at this Cat",
+      "file": "Take a Look at this Cat.fantome",
+      "missing": []
+    },
+    "em_10134_chibi_aatrox_salaryman_tocesportsoe_furiouslytyping": {
+      "name": "Per My Last Email...",
+      "file": "Per My Last Email.fantome",
+      "missing": []
+    },
+    "em_10135_chibi_jinx_soulfighter_tocesports_letsfight": {
+      "name": "One-Two Punch",
+      "file": "One-Two Punch.fantome",
+      "missing": []
+    },
+    "em_10136_ll_choncc_toclg_elegance": {
+      "name": "Umbrella Twirl",
+      "file": "Umbrella Twirl.fantome",
+      "missing": []
+    },
+    "em_10137_ll_pengu_tocsuperserver_crownedvictory": {
+      "name": "Crowning Spatula",
+      "file": "Crowning Spatula.fantome",
+      "missing": []
+    },
+    "em_10138_ll_doughcat_sushichef_tocesportswatchdrop_sushi": {
+      "name": "Sushi Surprise",
+      "file": "Sushi Surprise.fantome",
+      "missing": []
+    },
+    "em_10139_chibi_gwen_crystalrose_lovehands": {
+      "name": "Crystal Pose Gwen",
+      "file": "Crystal Pose Gwen.fantome",
+      "missing": []
+    },
+    "em_10140_chibi_zoe_starnemesis_sofunnyicannot": {
+      "name": "Think You're Funny…?",
+      "file": "Think You're Funny….fantome",
+      "missing": []
+    },
+    "em_10142_ll_riversprite_forest_leafumbrella": {
+      "name": "Rainy Day",
+      "file": "Rainy Day.fantome",
+      "missing": []
+    },
+    "em_10143_chibi_neeko_lookingforsomeone": {
+      "name": "Neeko is Scouting",
+      "file": "Neeko is Scouting.fantome",
+      "missing": []
+    },
+    "em_10145_jimothy_justjimothy": {
+      "name": "Friend-shaped Boi",
+      "file": "Friend-shaped Boi.fantome",
       "missing": []
     },
     "em_2019_1_bronze": {
@@ -5513,7 +6224,7 @@
     },
     "em_allstars_robe": {
       "name": "Oh Well",
-      "file": "Oh Well.fantome",
+      "file": "Oh Well (em_allstars_robe).fantome",
       "missing": []
     },
     "em_and_i_was_thinking": {
@@ -6693,7 +7404,7 @@
     },
     "em_jinx_bored_text": {
       "name": "So Lame",
-      "file": "So Lame.fantome",
+      "file": "So Lame (em_jinx_bored_text).fantome",
       "missing": []
     },
     "em_jinx_crush": {
@@ -6708,7 +7419,7 @@
     },
     "em_jinx_joy_text": {
       "name": "Wahaha",
-      "file": "Wahaha.fantome",
+      "file": "Wahaha (em_jinx_joy_text).fantome",
       "missing": []
     },
     "em_jinx_nailed_it": {
@@ -6718,7 +7429,7 @@
     },
     "em_jinx_nailedit_text": {
       "name": "Aww Yiss",
-      "file": "Aww Yiss.fantome",
+      "file": "Aww Yiss (em_jinx_nailedit_text).fantome",
       "missing": []
     },
     "em_just_a_pinch": {
@@ -6978,12 +7689,12 @@
     },
     "em_lunarrevel_bristle_oink_text": {
       "name": "Oink",
-      "file": "Oink.fantome",
+      "file": "Oink (em_lunarrevel_bristle_oink_text).fantome",
       "missing": []
     },
     "em_lunarrevel_goldenpig": {
       "name": "Squeal!",
-      "file": "Squeal!.fantome",
+      "file": "Squeal! (em_lunarrevel_goldenpig).fantome",
       "missing": []
     },
     "em_lunarrevel_tahmkench_blep": {
@@ -6993,7 +7704,7 @@
     },
     "em_lunarrevel_tahmkench_blep_text": {
       "name": "Blep Kench",
-      "file": "Blep Kench.fantome",
+      "file": "Blep Kench (em_lunarrevel_tahmkench_blep_text).fantome",
       "missing": []
     },
     "em_lunarrevel_vayne_cheeky": {
@@ -7003,7 +7714,7 @@
     },
     "em_lunarrevel_vayne_cheeky_text": {
       "name": "Happy Landings",
-      "file": "Happy Landings.fantome",
+      "file": "Happy Landings (em_lunarrevel_vayne_cheeky_text).fantome",
       "missing": []
     },
     "em_lustrous": {
@@ -7318,7 +8029,7 @@
     },
     "em_neeko_cn_angry": {
       "name": "I will destroy you",
-      "file": "I will destroy you.fantome",
+      "file": "I will destroy you (em_neeko_cn_angry).fantome",
       "missing": []
     },
     "em_neeko_cn_poro": {
@@ -7338,17 +8049,17 @@
     },
     "em_neeko_funny_inventory_cn": {
       "name": "Haha you fell!",
-      "file": "Haha you fell!.fantome",
+      "file": "Haha you fell! (em_neeko_funny_inventory_cn).fantome",
       "missing": []
     },
     "em_neeko_poro": {
       "name": "Poro Ride",
-      "file": "Poro Ride.fantome",
+      "file": "Poro Ride (em_neeko_poro).fantome",
       "missing": []
     },
     "em_neeko_rainbow": {
       "name": "OMG I love it",
-      "file": "OMG I love it.fantome",
+      "file": "OMG I love it (em_neeko_rainbow).fantome",
       "missing": []
     },
     "em_neon_nights_double_up_blue_tier": {
@@ -8333,7 +9044,7 @@
     },
     "em_sylas_allaccordingtoplan": {
       "name": "All According to Plan",
-      "file": "All According to Plan.fantome",
+      "file": "All According to Plan (em_sylas_allaccordingtoplan).fantome",
       "missing": []
     },
     "em_sylas_angry_text": {
@@ -8343,7 +9054,7 @@
     },
     "em_sylas_areyoukidding": {
       "name": "Are You Kidding?",
-      "file": "Are You Kidding.fantome",
+      "file": "Are You Kidding (em_sylas_areyoukidding).fantome",
       "missing": []
     },
     "em_sylas_disapproval_text": {
@@ -8353,12 +9064,12 @@
     },
     "em_sylas_howdelicious": {
       "name": "How Delicious",
-      "file": "How Delicious.fantome",
+      "file": "How Delicious (em_sylas_howdelicious).fantome",
       "missing": []
     },
     "em_sylas_unworthy": {
       "name": "Unworthy",
-      "file": "Unworthy.fantome",
+      "file": "Unworthy (em_sylas_unworthy).fantome",
       "missing": []
     },
     "em_take_my_money": {
@@ -9735,556 +10446,6 @@
       "name": "Gonna Be A Blast",
       "file": "Gonna Be A Blast.fantome",
       "missing": []
-    },
-    "5081": {
-      "name": "All Seeing Aspect",
-      "file": "All Seeing Aspect.fantome",
-      "missing": []
-    },
-    "5083": {
-      "name": "Keep Swimming",
-      "file": "Keep Swimming.fantome",
-      "missing": []
-    },
-    "5084": {
-      "name": "Moonstruck",
-      "file": "Moonstruck.fantome",
-      "missing": []
-    },
-    "5086": {
-      "name": "Mamma Mia",
-      "file": "Mamma Mia.fantome",
-      "missing": []
-    },
-    "5085": {
-      "name": "Divine Power",
-      "file": "Divine Power.fantome",
-      "missing": []
-    },
-    "5087": {
-      "name": "Tranquility",
-      "file": "Tranquility.fantome",
-      "missing": []
-    },
-    "5089": {
-      "name": "Queen Of The Dead",
-      "file": "Queen Of The Dead.fantome",
-      "missing": []
-    },
-    "5090": {
-      "name": "Loading...",
-      "file": "Loading.fantome",
-      "missing": []
-    },
-    "5091": {
-      "name": "Shark Snack",
-      "file": "Shark Snack.fantome",
-      "missing": []
-    },
-    "5093": {
-      "name": "It's Okay, I'm Okay",
-      "file": "It's Okay, I'm Okay.fantome",
-      "missing": []
-    },
-    "5094": {
-      "name": "Impeccable",
-      "file": "Impeccable.fantome",
-      "missing": []
-    },
-    "5095": {
-      "name": "Sinful Sip",
-      "file": "Sinful Sip.fantome",
-      "missing": []
-    },
-    "5096": {
-      "name": "Too Hot To Handle",
-      "file": "Too Hot To Handle.fantome",
-      "missing": []
-    },
-    "5097": {
-      "name": "Balloon's 'Bout To Burst!",
-      "file": "Balloon's 'Bout To Burst!.fantome",
-      "missing": []
-    },
-    "5082": {
-      "name": "We Shine Together",
-      "file": "We Shine Together.fantome",
-      "missing": []
-    },
-    "5099": {
-      "name": "Cheers, Dears",
-      "file": "Cheers, Dears.fantome",
-      "missing": []
-    },
-    "5100": {
-      "name": "Pinfall",
-      "file": "Pinfall.fantome",
-      "missing": []
-    },
-    "5101": {
-      "name": "Clean Up",
-      "file": "Clean Up.fantome",
-      "missing": []
-    },
-    "5098": {
-      "name": "Bad Crabitude",
-      "file": "Bad Crabitude.fantome",
-      "missing": []
-    },
-    "5092": {
-      "name": "Flushed Fuss",
-      "file": "Flushed Fuss.fantome",
-      "missing": []
-    },
-    "em_10118_ll_sprite_spacegroove_headphonesdancing": {
-      "name": "Pump up the Volume!",
-      "file": "Pump up the Volume!.fantome",
-      "missing": []
-    },
-    "em_10116_chibi_annie_cafecuties_cakefight": {
-      "name": "Pastry Pressure",
-      "file": "Pastry Pressure.fantome",
-      "missing": []
-    },
-    "em_10119_ll_shork_pride2026": {
-      "name": "Happy Gills",
-      "file": "Happy Gills.fantome",
-      "missing": []
-    },
-    "em_10117_chibi_briar_bloodmoon_frenzied": {
-      "name": "I'm Gonna Eat Ya!",
-      "file": "I'm Gonna Eat Ya!.fantome",
-      "missing": []
-    },
-    "em_10120_chibi_vex_cafecuties_cakeforyou": {
-      "name": "Another Year? Seriously?",
-      "file": "Another Year_ Seriously.fantome",
-      "missing": []
-    },
-    "em_10122_ll_crab_7yranniversary_dancingcelebration": {
-      "name": "Crabby Birthday!",
-      "file": "Crabby Birthday!.fantome",
-      "missing": []
-    },
-    "em_10121_chibi_vex_cafecuties_woocelebrationwoo": {
-      "name": "Surprise… or Whatever.",
-      "file": "Surprise… or Whatever.fantome",
-      "missing": []
-    },
-    "em_10123_ll_pengu_cosmic_presentsurprise": {
-      "name": "Cosmic Gift",
-      "file": "Cosmic Gift.fantome",
-      "missing": []
-    },
-    "5088": {
-      "name": "Supersleuth",
-      "file": "Supersleuth.fantome",
-      "missing": []
-    },
-    "5102": {
-      "name": "Tip My Hat",
-      "file": "Tip My Hat.fantome",
-      "missing": []
-    },
-    "5103": {
-      "name": "I'm A Locke Star",
-      "file": "I'm A Locke Star.fantome",
-      "missing": []
-    },
-    "5105": {
-      "name": "What A Headache",
-      "file": "What A Headache.fantome",
-      "missing": []
-    },
-    "5106": {
-      "name": "Gotta Be Kiddin' Me",
-      "file": "Gotta Be Kiddin' Me.fantome",
-      "missing": []
-    },
-    "5108": {
-      "name": "I'm Surrounded By Idiots",
-      "file": "I'm Surrounded By Idiots.fantome",
-      "missing": []
-    },
-    "5104": {
-      "name": "Watch It All Burn",
-      "file": "Watch It All Burn.fantome",
-      "missing": []
-    },
-    "em_10124_unbound_aurelionsol_howyoudoing": {
-      "name": "How You Doing?",
-      "file": "How You Doing.fantome",
-      "missing": []
-    },
-    "em_10125_ll_meep_space_surprise": {
-      "name": "Meep Meep!",
-      "file": "Meep Meep!.fantome",
-      "missing": []
-    },
-    "5110": {
-      "name": "I Call The Shots",
-      "file": "I Call The Shots.fantome",
-      "missing": []
-    },
-    "5109": {
-      "name": "Bready Or Not!",
-      "file": "Bready Or Not!.fantome",
-      "missing": []
-    },
-    "5107": {
-      "name": "Flex On 'Em",
-      "file": "Flex On 'Em.fantome",
-      "missing": []
-    },
-    "em_10127_unbound_rengar_psyops_lookatthiscat": {
-      "name": "Take a Look at this Cat",
-      "file": "Take a Look at this Cat.fantome",
-      "missing": []
-    },
-    "em_10126_unbound_yasuo_praisethegods": {
-      "name": "Praise the Gods",
-      "file": "Praise the Gods.fantome",
-      "missing": []
-    },
-    "5116": {
-      "name": "Morning Glory",
-      "file": "Morning Glory.fantome",
-      "missing": []
-    },
-    "5114": {
-      "name": "Darling Doongi",
-      "file": "Darling Doongi.fantome",
-      "missing": []
-    },
-    "5115": {
-      "name": "Tiger Clan Represent",
-      "file": "Tiger Clan Represent.fantome",
-      "missing": []
-    },
-    "5112": {
-      "name": "A Rose, For You",
-      "file": "A Rose, For You.fantome",
-      "missing": []
-    },
-    "5113": {
-      "name": "K!",
-      "file": "K!.fantome",
-      "missing": []
-    },
-    "5111": {
-      "name": "Guma-Goddess",
-      "file": "Guma-Goddess.fantome",
-      "missing": []
-    },
-    "5117": {
-      "name": "Call Your Shot",
-      "file": "Call Your Shot.fantome",
-      "missing": []
-    },
-    "10128": {
-      "name": "Up and to the right",
-      "file": "Up and to the right.fantome",
-      "missing": []
-    },
-    "10129": {
-      "name": "Make Room for Mush",
-      "file": "Make Room for Mush.fantome",
-      "missing": []
-    },
-    "10130": {
-      "name": "Blue Hearts You",
-      "file": "Blue Hearts You.fantome",
-      "missing": []
-    },
-    "10131": {
-      "name": "Scheming Sorceress",
-      "file": "Scheming Sorceress.fantome",
-      "missing": []
-    },
-    "10132": {
-      "name": "What'd I do now?!",
-      "file": "What'd I do now_!.fantome",
-      "missing": []
-    },
-    "10133": {
-      "name": "Sweat It Out",
-      "file": "Sweat It Out.fantome",
-      "missing": []
-    },
-    "5119": {
-      "name": "2026 MSI Champions Hanwha Life Esports",
-      "file": "2026 MSI Champions Hanwha Life Esports.fantome",
-      "missing": []
-    },
-    "5120": {
-      "name": "Comfy Cloud",
-      "file": "Comfy Cloud.fantome",
-      "missing": []
-    },
-    "5121": {
-      "name": "Right On Target",
-      "file": "Right On Target.fantome",
-      "missing": []
-    },
-    "5122": {
-      "name": "Innocuous Brush",
-      "file": "Innocuous Brush.fantome",
-      "missing": []
-    },
-    "5123": {
-      "name": "Burn It Up",
-      "file": "Burn It Up.fantome",
-      "missing": []
-    },
-    "5124": {
-      "name": "Ghostly Poro",
-      "file": "Ghostly Poro.fantome",
-      "missing": []
-    },
-    "5125": {
-      "name": "Tons Of Damage",
-      "file": "Tons Of Damage.fantome",
-      "missing": []
-    },
-    "5126": {
-      "name": "Mighty Metagolem",
-      "file": "Mighty Metagolem.fantome",
-      "missing": []
-    },
-    "5127": {
-      "name": "Caution: Singed",
-      "file": "Caution_ Singed.fantome",
-      "missing": []
-    },
-    "5128": {
-      "name": "1% Crit Chance",
-      "file": "1% Crit Chance.fantome",
-      "missing": []
-    },
-    "5129": {
-      "name": "Shushei The Gragas Legend",
-      "file": "Shushei The Gragas Legend.fantome",
-      "missing": []
-    },
-    "5130": {
-      "name": "Reading Up",
-      "file": "Reading Up.fantome",
-      "missing": []
-    },
-    "5132": {
-      "name": "Too Tanky",
-      "file": "Too Tanky.fantome",
-      "missing": []
-    },
-    "5131": {
-      "name": "Seeing Stars",
-      "file": "Seeing Stars.fantome",
-      "missing": []
-    },
-    "5133": {
-      "name": "Support Is So Easy",
-      "file": "Support Is So Easy.fantome",
-      "missing": []
-    },
-    "5134": {
-      "name": "Positive Team Player",
-      "file": "Positive Team Player.fantome",
-      "missing": []
-    },
-    "5137": {
-      "name": "Vicious Rumors",
-      "file": "Vicious Rumors.fantome",
-      "missing": []
-    },
-    "5139": {
-      "name": "Unseelie Smirk",
-      "file": "Unseelie Smirk.fantome",
-      "missing": []
-    },
-    "5118": {
-      "name": "Outta Here",
-      "file": "Outta Here.fantome",
-      "missing": []
-    },
-    "5136": {
-      "name": "Can't Chronokeep Me Down",
-      "file": "Can't Chronokeep Me Down.fantome",
-      "missing": []
-    },
-    "5138": {
-      "name": "Frustrated Fae",
-      "file": "Frustrated Fae.fantome",
-      "missing": []
-    },
-    "5135": {
-      "name": "Honorable Opponent",
-      "file": "Honorable Opponent.fantome",
-      "missing": []
-    },
-    "5164": {
-      "name": "I Can't Hear You",
-      "file": "I Can't Hear You.fantome",
-      "missing": []
-    },
-    "5165": {
-      "name": "Goldfish Face",
-      "file": "Goldfish Face.fantome",
-      "missing": []
-    },
-    "5140": {
-      "file": "Recognize Royalty.fantome",
-      "missing": [],
-      "name": "Recognize Royalty"
-    },
-    "5141": {
-      "file": "Into The Mic.fantome",
-      "missing": [],
-      "name": "Into The Mic"
-    },
-    "5142": {
-      "file": "LEC Victory.fantome",
-      "missing": [],
-      "name": "LEC Victory"
-    },
-    "5143": {
-      "file": "I'm Smurfing!.fantome",
-      "missing": [],
-      "name": "I'm Smurfing!"
-    },
-    "5144": {
-      "file": "Claps Or Craps.fantome",
-      "missing": [],
-      "name": "Claps Or Craps"
-    },
-    "5145": {
-      "file": "Got A Penta.fantome",
-      "missing": [],
-      "name": "Got A Penta"
-    },
-    "5146": {
-      "file": "D.A.D.'s Proud.fantome",
-      "missing": [],
-      "name": "D.A.D.'s Proud"
-    },
-    "5147": {
-      "file": "Nagoya 2026 I.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 I"
-    },
-    "5148": {
-      "file": "Nagoya 2026 II.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 II"
-    },
-    "5149": {
-      "file": "Nagoya 2026 III.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 III"
-    },
-    "5150": {
-      "file": "Nagoya 2026 IV.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 IV"
-    },
-    "5151": {
-      "file": "Nagoya 2026 V.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 V"
-    },
-    "5152": {
-      "file": "Nagoya 2026 VI.fantome",
-      "missing": [],
-      "name": "Nagoya 2026 VI"
-    },
-    "5153": {
-      "file": "Clap For Me.fantome",
-      "missing": [],
-      "name": "Clap For Me"
-    },
-    "5154": {
-      "file": "What Is E-L-O_!.fantome",
-      "missing": [],
-      "name": "What Is E-L-O?!"
-    },
-    "5155": {
-      "file": "Welcome To The RodeLOL.fantome",
-      "missing": [],
-      "name": "Welcome To The RodeLOL"
-    },
-    "5156": {
-      "file": "Warm Hugs.fantome",
-      "missing": [],
-      "name": "Warm Hugs"
-    },
-    "5157": {
-      "file": "Laying It Down.fantome",
-      "missing": [],
-      "name": "Laying It Down"
-    },
-    "5158": {
-      "file": "Braaainsss.fantome",
-      "missing": [],
-      "name": "Braaainsss..."
-    },
-    "5159": {
-      "file": "Spa Day.fantome",
-      "missing": [],
-      "name": "Spa Day"
-    },
-    "5161": {
-      "file": "Spicy Dog.fantome",
-      "missing": [],
-      "name": "Spicy Dog"
-    },
-    "5162": {
-      "file": "Mix It Up.fantome",
-      "missing": [],
-      "name": "Mix It Up"
-    },
-    "5167": {
-      "file": "Wind-kissed.fantome",
-      "missing": [],
-      "name": "Wind-kissed"
-    },
-    "em_10134_chibi_aatrox_salaryman_tocesportsoe_furiouslytyping": {
-      "file": "Per My Last Email.fantome",
-      "missing": [],
-      "name": "Per My Last Email..."
-    },
-    "em_10135_chibi_jinx_soulfighter_tocesports_letsfight": {
-      "file": "One-Two Punch.fantome",
-      "missing": [],
-      "name": "One-Two Punch"
-    },
-    "em_10136_ll_choncc_toclg_elegance": {
-      "file": "Umbrella Twirl.fantome",
-      "missing": [],
-      "name": "Umbrella Twirl"
-    },
-    "em_10137_ll_pengu_tocsuperserver_crownedvictory": {
-      "file": "Crowning Spatula.fantome",
-      "missing": [],
-      "name": "Crowning Spatula"
-    },
-    "em_10138_ll_doughcat_sushichef_tocesportswatchdrop_sushi": {
-      "file": "Sushi Surprise.fantome",
-      "missing": [],
-      "name": "Sushi Surprise"
-    },
-    "em_10139_chibi_gwen_crystalrose_lovehands": {
-      "file": "Crystal Pose Gwen.fantome",
-      "missing": [],
-      "name": "Crystal Pose Gwen"
-    },
-    "em_10140_chibi_zoe_starnemesis_sofunnyicannot": {
-      "file": "Think You're Funny….fantome",
-      "missing": [],
-      "name": "Think You're Funny…?"
-    },
-    "em_10145_jimothy_justjimothy": {
-      "file": "Friend-shaped Boi.fantome",
-      "missing": [],
-      "name": "Friend-shaped Boi"
     }
   }
 }
